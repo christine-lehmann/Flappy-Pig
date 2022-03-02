@@ -1,1 +1,3 @@
-# Flappy-Pig
+# Flappy Pig 🐷
+
+Flappy Pig using Pygame
